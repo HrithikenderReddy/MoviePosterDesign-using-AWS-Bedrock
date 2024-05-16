@@ -1,0 +1,1 @@
+# MoviePosterDesign-using-AWS-Bedrock
